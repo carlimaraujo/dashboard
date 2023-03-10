@@ -25,7 +25,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Layout responsivo de um Dashboard
+Layout responsivo e animado de um Dashboard
 
 - [Acesse o projeto finalizado, online clicando aqui](https://carlimaraujo.github.io/dashboard/)
 
